@@ -78,6 +78,10 @@
   border-bottom:5px solid black;
 }
 
+.heads{
+    background-color:black;
+}
+
 .body{
     margin-top:65px;
     width:90%;
